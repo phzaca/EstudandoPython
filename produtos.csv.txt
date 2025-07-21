@@ -1,0 +1,31 @@
+id_prod,nome_produto,categoria,estoque,preco
+1,Notebook,Eletrônicos,10,2500.00
+2,Café,Bebidas,200,16.50
+3,Tênis,Esportes,50,159.00
+4,Bermuda,Vestuário,18,59.90
+5,Meia,Vestuário,250,14.90
+6,Fone de ouvido,Eletrônicos,17,225.00
+7,Smartphone,Eletrônicos,8,3200.00
+8,Camiseta,Vestuário,30,49.90
+9,Mochila,Esportes,12,179.00
+10,Sapato,Esportes,22,210.00
+11,Mouse,Eletrônicos,15,89.90
+12,Boné,Vestuário,25,39.90
+13,Calça,Vestuário,20,89.90
+14,Moletom,Vestuário,6,129.90
+15,Jaqueta,Vestuário,14,199.00
+16,Guaraná,Bebidas,180,7.80
+17,Chá,Bebidas,120,13.90
+18,Carregador,Eletrônicos,19,99.90
+19,Bola de futebol,Esportes,9,99.00
+20,Blusa,Vestuário,12,79.90
+21,Livro,Consumo,60,45.00
+22,Água,Bebidas,300,5.00
+23,Suco,Bebidas,90,8.90
+24,Relógio,Acessórios,18,280.00
+25,Oculos,Acessórios,20,95.00
+26,Teclado,Eletrônicos,20,130.00
+27,Regata,Vestuário,15,39.90
+28,Sandália,Vestuário,11,65.00
+29,Bolsa,Acessórios,7,199.00
+30,Torrada,Consumo,55,6.50
